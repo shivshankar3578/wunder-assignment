@@ -1,0 +1,16 @@
+{
+  "name": "wunder-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assignment.js",
+  "scripts": {
+    "test": "mocha assignment.test.js",
+    "doc": "jsdoc2md assignment.js > readme.md"
+  },
+  "author": "shivshankar sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdoc-to-markdown": "^5.0.3",
+    "mocha": "^7.1.0"
+  }
+}
